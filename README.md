@@ -7,3 +7,5 @@ I'm currently learning JavaScript and basic React stuff during my free time 🌱
 Feel free to contact me !  
 📮 e-mail : quentin@taryev.fr   
 💼 linkedin : linkedin.com/in/quentin-veyrat
+
+_Profile picture and banner are AI-generated_
